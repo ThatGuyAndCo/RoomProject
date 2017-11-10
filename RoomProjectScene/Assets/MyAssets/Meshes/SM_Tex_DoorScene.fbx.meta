@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: dd36d83df27e6ad46ad8c275a2a784ed
+timeCreated: 1506879241
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base
+    100002: CentralCrystalBottomLeft
+    100004: CentralCrystalBottomRight
+    100006: CentralCrystalTopLeft
+    100008: CentralCrystalTopRight
+    100010: MinorCrystal001
+    100012: MinorCrystal002
+    100014: MinorCrystal003
+    100016: MinorCrystal004
+    100018: MinorCrystal005
+    100020: MinorCrystal006
+    100022: MinorCrystal007
+    100024: MinorCrystal008
+    100026: MinorCrystal009
+    100028: MinorCrystal010
+    100030: MinorCrystal011
+    100032: MinorCrystal012
+    100034: MinorCrystal013
+    100036: MinorCrystal014
+    100038: MinorCrystal015
+    100040: //RootNode
+    400000: Base
+    400002: CentralCrystalBottomLeft
+    400004: CentralCrystalBottomRight
+    400006: CentralCrystalTopLeft
+    400008: CentralCrystalTopRight
+    400010: MinorCrystal001
+    400012: MinorCrystal002
+    400014: MinorCrystal003
+    400016: MinorCrystal004
+    400018: MinorCrystal005
+    400020: MinorCrystal006
+    400022: MinorCrystal007
+    400024: MinorCrystal008
+    400026: MinorCrystal009
+    400028: MinorCrystal010
+    400030: MinorCrystal011
+    400032: MinorCrystal012
+    400034: MinorCrystal013
+    400036: MinorCrystal014
+    400038: MinorCrystal015
+    400040: //RootNode
+    2300000: Base
+    2300002: CentralCrystalBottomLeft
+    2300004: CentralCrystalBottomRight
+    2300006: CentralCrystalTopLeft
+    2300008: CentralCrystalTopRight
+    2300010: MinorCrystal001
+    2300012: MinorCrystal002
+    2300014: MinorCrystal003
+    2300016: MinorCrystal004
+    2300018: MinorCrystal005
+    2300020: MinorCrystal006
+    2300022: MinorCrystal007
+    2300024: MinorCrystal008
+    2300026: MinorCrystal009
+    2300028: MinorCrystal010
+    2300030: MinorCrystal011
+    2300032: MinorCrystal012
+    2300034: MinorCrystal013
+    2300036: MinorCrystal014
+    2300038: MinorCrystal015
+    3300000: Base
+    3300002: CentralCrystalBottomLeft
+    3300004: CentralCrystalBottomRight
+    3300006: CentralCrystalTopLeft
+    3300008: CentralCrystalTopRight
+    3300010: MinorCrystal001
+    3300012: MinorCrystal002
+    3300014: MinorCrystal003
+    3300016: MinorCrystal004
+    3300018: MinorCrystal005
+    3300020: MinorCrystal006
+    3300022: MinorCrystal007
+    3300024: MinorCrystal008
+    3300026: MinorCrystal009
+    3300028: MinorCrystal010
+    3300030: MinorCrystal011
+    3300032: MinorCrystal012
+    3300034: MinorCrystal013
+    3300036: MinorCrystal014
+    3300038: MinorCrystal015
+    4300000: MinorCrystal001
+    4300002: Base
+    4300004: MinorCrystal002
+    4300006: MinorCrystal003
+    4300008: MinorCrystal004
+    4300010: MinorCrystal005
+    4300012: MinorCrystal006
+    4300014: MinorCrystal007
+    4300016: MinorCrystal008
+    4300018: MinorCrystal009
+    4300020: MinorCrystal010
+    4300022: MinorCrystal011
+    4300024: MinorCrystal012
+    4300026: MinorCrystal013
+    4300028: MinorCrystal014
+    4300030: MinorCrystal015
+    4300032: CentralCrystalBottomLeft
+    4300034: CentralCrystalBottomRight
+    4300036: CentralCrystalTopRight
+    4300038: CentralCrystalTopLeft
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

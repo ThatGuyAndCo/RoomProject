@@ -13,6 +13,9 @@ ModelImporter:
     100010: Sphere012
     100012: Sphere013
     100014: Sphere014
+    100016: Sphere015
+    100018: Sphere016
+    100020: Sphere017
     400000: Box001
     400002: //RootNode
     400004: Sphere009
@@ -21,6 +24,9 @@ ModelImporter:
     400010: Sphere012
     400012: Sphere013
     400014: Sphere014
+    400016: Sphere015
+    400018: Sphere016
+    400020: Sphere017
     2300000: Box001
     2300002: Sphere009
     2300004: Sphere010
@@ -28,6 +34,9 @@ ModelImporter:
     2300008: Sphere012
     2300010: Sphere013
     2300012: Sphere014
+    2300014: Sphere015
+    2300016: Sphere016
+    2300018: Sphere017
     3300000: Box001
     3300002: Sphere009
     3300004: Sphere010
@@ -35,6 +44,9 @@ ModelImporter:
     3300008: Sphere012
     3300010: Sphere013
     3300012: Sphere014
+    3300014: Sphere015
+    3300016: Sphere016
+    3300018: Sphere017
     4300000: Sphere009
     4300002: Sphere010
     4300004: Sphere011
@@ -42,6 +54,9 @@ ModelImporter:
     4300008: Sphere013
     4300010: Box001
     4300012: Sphere014
+    4300014: Sphere015
+    4300016: Sphere016
+    4300018: Sphere017
     9500000: //RootNode
   materials:
     importMaterials: 1
